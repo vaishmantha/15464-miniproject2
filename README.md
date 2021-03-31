@@ -1,6 +1,6 @@
-15-464 Mini-project 2 
+## 15-464 Mini-project 2 
 
-Cloth spring-mass system simulation and simulation integrators experimentation. 
+### Option 1: Cloth spring-mass system simulation and Option 3: Integrators experimentation
 
 proj3/ contains the code necessary to run the simulation. To view the result, simply open proj3.html. The .mov files inside the Google Drive folder are the clips used in the Report presentation. 
 
