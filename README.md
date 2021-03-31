@@ -1,7 +1,6 @@
-Vaishnavi Mantha
 15-464 Mini-project 2 
 
-I did Option 1 and a bit of Option 3. 
+Cloth spring-mass system simulation and simulation integrators experimentation. 
 
 proj3/ contains the code necessary to run the simulation. To view the result, simply open proj3.html. The .mov files inside the Google Drive folder are the clips used in the Report presentation. 
 
